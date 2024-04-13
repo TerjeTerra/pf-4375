@@ -1,0 +1,12 @@
+# Java
+*.class
+
+# Python
+*.pyc
+venv/
+settings.ini
+logs/
+__pycache__/
+
+# Mac
+.DS_Store
